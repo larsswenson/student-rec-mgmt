@@ -1,7 +1,7 @@
 # Student Record Management System
 
 ## Description
-This is a Java app for managing student records with a TreeMap. Users can add, update, delete, and display student records sorted by their IDs, as well as displaying all students with a GPA higher than 3.0.
+This is a Java app for managing student records with a TreeMap. Users can add, update, delete, and display student records sorted by their IDs, as well as display all students with a GPA higher than 3.0.
 
 ## Features
 - Add new student records with student IDs.
